@@ -21,4 +21,4 @@ Genre Shifts: Analysis of how viewer preferences have shifted from traditional g
 The "Seasonal Effect" on Engagement : Using the release season data (Spring, Summer, Fall, Winter), to analyze if timing impacts an anime's success.
 Correlation: Popularity vs. Rating : This insight explores the relationship between how many people watched an anime versus how they actually rated it.
 
-Screenshots: 
+Screenshots: https://github.com/aparna9431/Anime-Analytics-Dashboard/blob/main/Anime%20Dashboard.png
